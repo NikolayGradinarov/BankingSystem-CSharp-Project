@@ -1,0 +1,30 @@
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\bin\Debug\net6.0\BankingSystem.exe
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\bin\Debug\net6.0\BankingSystem.deps.json
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\bin\Debug\net6.0\BankingSystem.runtimeconfig.json
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\bin\Debug\net6.0\BankingSystem.dll
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\bin\Debug\net6.0\BankingSystem.pdb
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.AssemblyReference.cache
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\obj\Debug\net6.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfoInputs.cache
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfo.cs
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.CoreCompileInputs.cache
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\obj\Debug\net6.0\BankingSystem.dll
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\obj\Debug\net6.0\refint\BankingSystem.dll
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\obj\Debug\net6.0\BankingSystem.pdb
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\obj\Debug\net6.0\BankingSystem.genruntimeconfig.cache
+D:\Software Projects\Banking System - OOP Principles\BankingSystem\obj\Debug\net6.0\ref\BankingSystem.dll
+C:\WebDeveloper's Future\Side Projects\BankingSystem\bin\Debug\net6.0\BankingSystem.exe
+C:\WebDeveloper's Future\Side Projects\BankingSystem\bin\Debug\net6.0\BankingSystem.deps.json
+C:\WebDeveloper's Future\Side Projects\BankingSystem\bin\Debug\net6.0\BankingSystem.runtimeconfig.json
+C:\WebDeveloper's Future\Side Projects\BankingSystem\bin\Debug\net6.0\BankingSystem.dll
+C:\WebDeveloper's Future\Side Projects\BankingSystem\bin\Debug\net6.0\BankingSystem.pdb
+C:\WebDeveloper's Future\Side Projects\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.AssemblyReference.cache
+C:\WebDeveloper's Future\Side Projects\BankingSystem\obj\Debug\net6.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebDeveloper's Future\Side Projects\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfoInputs.cache
+C:\WebDeveloper's Future\Side Projects\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfo.cs
+C:\WebDeveloper's Future\Side Projects\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.CoreCompileInputs.cache
+C:\WebDeveloper's Future\Side Projects\BankingSystem\obj\Debug\net6.0\BankingSystem.dll
+C:\WebDeveloper's Future\Side Projects\BankingSystem\obj\Debug\net6.0\refint\BankingSystem.dll
+C:\WebDeveloper's Future\Side Projects\BankingSystem\obj\Debug\net6.0\BankingSystem.pdb
+C:\WebDeveloper's Future\Side Projects\BankingSystem\obj\Debug\net6.0\BankingSystem.genruntimeconfig.cache
+C:\WebDeveloper's Future\Side Projects\BankingSystem\obj\Debug\net6.0\ref\BankingSystem.dll
